@@ -1,16 +1,31 @@
-## Hi there 👋
+# 森宗伶太
 
-<!--
-**nekomikandayo/nekomikandayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+広島工業大学 情報コミュニケーション学科 2年  
 
-Here are some ideas to get you started:
+将来は、サービス開発に携わりながら、技術とマネジメントの両方を理解し、プロジェクトをまとめられる人材になることを目標にしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+- HTML / CSS / JavaScript
+- C
+- 基本情報技術者試験 合格
+
+---
+
+## 🚀 Experience
+- Windows簡易電卓を5日間で個人制作（インターン）
+- イベント企画・運営経験
+- 自主学習の継続（ポモドーロ活用）
+
+---
+
+## 📈 Currently Working On
+- Webアプリ制作
+- GitHub活用の習慣化
+- 実務レベルの設計力向上
+
+---
+
+## 🎯 Vision
+技術を理解した上で、開発全体を俯瞰できる人材へ成長すること。
