@@ -8,11 +8,10 @@
 
 ---
 
-## 💡 About Me
-将来は、サービス開発に携わりながら、技術とマネジメントの両方を理解し、
-プロジェクトを進めていけるリーダーを目指す！
+## 🌐 Portfolio
 
-現在は、長期インターンに向けて実装，構想力を伸ばしていくことを目標！
+🔗 ポートフォリオサイト  
+https://nekomikandayo.github.io/portfolio/
 
 ---
 
@@ -24,9 +23,27 @@
 ---
 ## 📂 Output
 
-簡易電卓アプリ（ https://nekomikandayo.github.io/calculator-app/ ）
+### 🧮 簡易電卓アプリ
+- 境界値分析を実施し、異常系も含めたテスト設計を行いました。
+- 想定外入力でもエラーが発生しない設計を意識。
 
-ポモドーロタイマー/猫の屈伸（ https://nekomikandayo.github.io/cat-pomodoro/ )
+🌐 Demo  
+https://nekomikandayo.github.io/calculator-app/
+
+💻 Source Code  
+https://github.com/nekomikandayo/calculator-app
+
+---
+
+### 🍅 ポモドーロタイマー / 猫の屈伸
+- 画面遷移やタイマー状態の変化を事前に設計。
+- UIの動作フローを整理してから実装し、修正コストを削減。
+
+🌐 Demo  
+https://nekomikandayo.github.io/cat-pomodoro/
+
+💻 Source Code  
+https://github.com/nekomikandayo/cat-pomodoro
 
 ---
 
