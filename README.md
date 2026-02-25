@@ -30,7 +30,7 @@ https://nekomikandayo.github.io/portfolio/
 - Firebase と連携し、認証・データ保存を実装
 - 読書時間の計測＋気づきの即時アウトプットで定着を支援
 
-![Reading Habit Screenshot](./docs/screenshot2.png)
+![Reading Habit Screenshot](./reading-habit/docs/screenshot2.png)
 
 
 #### 🔗 Links
