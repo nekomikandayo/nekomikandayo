@@ -23,27 +23,46 @@ https://nekomikandayo.github.io/portfolio/
 ---
 ## 📂 Output
 
+### 📘 Reading Habit（習慣化読書アプリ）
+**忙しい中でも「短時間の読書 → 振り返り → 習慣化」を実現するWebアプリ**
+
+- UI・画面遷移・データ構造を自分で設計
+- Firebase と連携し、認証・データ保存を実装
+- 読書時間の計測＋気づきの即時アウトプットで定着を支援
+
+#### 🔗 Links
+- 🌐 **Live Demo**  
+  https://reading-habit-app.web.app
+- 💻 **Source Code**  
+  https://github.com/nekomikandayo/reading-habit-app
+
+---
+
 ### 🧮 簡易電卓アプリ
-- 境界値分析を実施し、異常系も含めたテスト設計を行いました。
-- 想定外入力でもエラーが発生しない設計を意識。
+**異常系を含めたテスト設計を重視したWebアプリ**
 
-🌐 Demo  
-https://nekomikandayo.github.io/calculator-app/
+- 境界値分析を実施
+- 想定外入力でもエラーが発生しない設計を意識
 
-💻 Source Code  
-https://github.com/nekomikandayo/calculator-app
+#### 🔗 Links
+- 🌐 **Demo**  
+  https://nekomikandayo.github.io/calculator-app/
+- 💻 **Source Code**  
+  https://github.com/nekomikandayo/calculator-app
 
 ---
 
 ### 🍅 ポモドーロタイマー / 猫の屈伸
-- 画面遷移やタイマー状態の変化を事前に設計。
-- UIの動作フローを整理してから実装し、修正コストを削減。
+**状態遷移を意識したUI設計のタイマーアプリ**
 
-🌐 Demo  
-https://nekomikandayo.github.io/cat-pomodoro/
+- 画面遷移やタイマー状態の変化を事前に設計
+- UIの動作フローを整理してから実装し、修正コストを削減
 
-💻 Source Code  
-https://github.com/nekomikandayo/cat-pomodoro
+#### 🔗 Links
+- 🌐 **Demo**  
+  https://nekomikandayo.github.io/cat-pomodoro/
+- 💻 **Source Code**  
+  https://github.com/nekomikandayo/cat-pomodoro
 
 ---
 
