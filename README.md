@@ -78,12 +78,11 @@ https://nekomikandayo.github.io/portfolio/
   （企画立案・当日運営を担当）
 - 大学2年時、2か月間の学習で基本情報技術者試験に一発合格
 - アルバイトで小学生にScratchを指導
-  （1か月程度）
 
 ---
 
 ## 📈 Currently Working On
-- Webアプリ制作（ToDoアプリ、カレンダーアプリを個人開発中）
+- Webアプリ制作個人開発中
 - GitHubを活用した開発記録の習慣化
 - The Web Developer Bootcamp を受講
 - 大学内で第2回友達作り支援イベントを2人で企画
