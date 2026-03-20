@@ -80,7 +80,7 @@ https://nekomikandayo.github.io/portfolio/
   https://github.com/nekomikandayo/cat-pomodoro
 
 ---
-### 🔄 syuukannka (習慣化アプリ)
+### 🔄 habit-tracker
 **ユーザーの継続をサポートするWebアプリケーション**
 
 - SaaSプロダクトの運用を見据え、保守性や拡張性を意識したコード設計を実践
