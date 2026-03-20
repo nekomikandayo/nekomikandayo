@@ -23,6 +23,18 @@ https://nekomikandayo.github.io/portfolio/
 ---
 ## 📂 Output
 
+### 📝 TIL (Today I Learned)
+**日々の技術的な学びや課題解決のプロセスを言語化したナレッジベース**
+
+- フロントエンド技術やクリーンコードに関する学習記録を継続的にアウトプット
+- 単なるメモではなく、「なぜその技術が必要か」「どうエラーを解決したか」という思考プロセスを重視
+- チーム開発において必須となる「暗黙知をなくし、言語化して共有する力」の向上を目的として運用
+
+#### 🔗 Links
+- 💻 **Repository** https://github.com/nekomikandayo/TIL
+
+---
+
 ### 📘 Reading Habit（習慣化読書アプリ）
 **忙しい中でも「短時間の読書 → 振り返り → 習慣化」を実現するWebアプリ**
 
@@ -68,6 +80,17 @@ https://nekomikandayo.github.io/portfolio/
   https://github.com/nekomikandayo/cat-pomodoro
 
 ---
+### 🔄 syuukannka (習慣化アプリ)
+**ユーザーの継続をサポートするWebアプリケーション**
+
+- SaaSプロダクトの運用を見据え、保守性や拡張性を意識したコード設計を実践
+- ユーザーが日々ストレスなく利用し続けられるUI/UXの構築
+- 即座に行動・検証を回すアジャイルな開発プロセスを意識
+
+#### 🔗 Links
+- 💻 **Source Code** https://github.com/nekomikandayo/syuukannka
+
+---
 
 ## 🚀 Experience
 - 5日間のインターンで、HTML/CSS/JavaScriptを用いたWindows簡易電卓を個人開発
@@ -84,9 +107,10 @@ https://nekomikandayo.github.io/portfolio/
 ## 📈 Currently Working On
 - Webアプリ制作個人開発中
 - GitHubを活用した開発記録の習慣化
-- The Web Developer Bootcamp を受講
 - 大学内で第2回友達作り支援イベントを2人で企画
 - 応用情報技術者を勉強
+- GitHub (`TIL` リポジトリ) を活用した、思考プロセス・開発記録の言語化と習慣化
+- The Web Developer Bootcamp を受講 / Next.js・クリーンコードの学習
 
 ---
 
