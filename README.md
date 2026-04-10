@@ -1,4 +1,4 @@
-# 森宗伶太 | Ryota Morimune
+# 森宗伶太 | Reita Morimune
 
 広島工業大学 情報コミュニケーション学科 2年  
 
