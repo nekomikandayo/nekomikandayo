@@ -16,7 +16,7 @@ https://nekomikandayo.github.io/portfolio/
 ---
 
 ## 🛠 Skills
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript / Node.js
 - C（大学で2年間学習）
 - 基本情報技術者試験 合格
 
