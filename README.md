@@ -26,13 +26,28 @@ https://nekomikandayo.github.io/portfolio/
 ### 📝 TIL (Today I Learned)
 **日々の技術的な学びや気づきを記述**
 
-- フロントエンド技術やクリーンコードに関する学習記録を継続的にアウトプット
+- フロントエンド技術やクリーンコードに関する学習記録を、3か月以上継続してアウトプット
 - 単なるメモではなく、「なぜその技術が必要か」という思考プロセスを重視
 - チーム開発において必須となる「暗黙知をなくし、言語化して共有する力」の向上を目的として運用
 
 #### 🔗 Links
 - 💻 **Repository** https://github.com/nekomikandayo/TIL
 
+---
+### 👥 共有ToDoアプリ
+**FuelPHP + Knockout.js を用いたチーム向けToDo管理アプリ**
+
+- MVCアーキテクチャを意識し、Controller / Model / View を分離
+- Docker を利用し、開発環境をコンテナ化
+- Knockout.js + Fetch API を用いた非同期CRUDを実装
+- グループ機能・招待URL・ログイン認証を実装
+- CSRF対策やバリデーションを行い、セキュリティを考慮
+- GitHub Flow を意識したブランチ運用・PRベース開発を実践
+
+#### 🔗 Links
+- 💻 **Source Code**  
+  https://github.com/nekomikandayo/shared-todo-app
+  
 ---
 
 ### 📘 Reading Habit（習慣化読書アプリ）
@@ -67,32 +82,6 @@ https://nekomikandayo.github.io/portfolio/
 
 ---
 
-### 🍅 ポモドーロタイマー / 猫の屈伸
-**状態遷移を意識したUI設計のタイマーアプリ**
-
-- 画面遷移やタイマー状態の変化を事前に設計
-- UIの動作フローを整理してから実装し、修正コストを削減
-
-#### 🔗 Links
-- 🌐 **Demo**  
-  https://nekomikandayo.github.io/cat-pomodoro/
-- 💻 **Source Code**  
-  https://github.com/nekomikandayo/cat-pomodoro
-
----
-### 🔄 habit-tracker
-**ユーザーの継続をサポートするWebアプリケーション**
-
-- SaaSプロダクトの運用を見据え、保守性や拡張性を意識したコード設計を実践
-- ユーザーが日々ストレスなく利用し続けられるUI/UXの構築
-- 即座に行動・検証を回すアジャイルな開発プロセスを意識
-
-#### 🔗 Links
-- 💻 **Source Code** https://github.com/nekomikandayo/habit-tracker
-
-
----
-
 ## 🚀 Experience
 - 5日間のインターンで、HTML/CSS/JavaScriptを用いたWindows簡易電卓を個人開発
   四則演算・全消去・バックスペース・小数計算機能を実装
@@ -101,17 +90,17 @@ https://nekomikandayo.github.io/portfolio/
   少数なりに話を回して，初対面のコツをたくさん試してもらった
   （企画立案・当日運営を担当）
 - 大学2年時、2か月間の学習で基本情報技術者試験に一発合格
-- アルバイトで小学生にScratchを指導
+- アルバイトで小学生にScratch、マイクラ、HTML、CSSを指導
 
 ---
 
 ## 📈 Currently Working On
 - Webアプリ制作個人開発中
 - GitHubを活用した開発記録の習慣化
-- 大学内で第2回友達作り支援イベントを2人で企画
 - 応用情報技術者を勉強
 - GitHub (`TIL` リポジトリ) を活用した、思考プロセス・開発記録の言語化と習慣化
 - The Web Developer Bootcamp を受講 / Next.js・クリーンコードの学習
+- 長期インターンで、実務経験を積む
 
 ---
 
