@@ -16,9 +16,33 @@ https://nekomikandayo.github.io/portfolio/
 ---
 
 ## 🛠 Skills
-- HTML / CSS / JavaScript / Node.js
-- C（大学で2年間学習）
+
+### Frontend
+- HTML / CSS / JavaScript
+- Knockout.js
+- Fetch API
+- Responsive Design
+
+### Backend
+- PHP
+- FuelPHP
+- Node.js
+
+### Database / Infrastructure
+- MySQL
+- Docker
+- Apache
+
+### Development
+- Git / GitHub
+- GitHub Flow
+- MVC Architecture
+- REST API
+- CRUD設計
+
+### Others
 - 基本情報技術者試験 合格
+- C（大学で2年間学習）
 
 ---
 ## 📂 Output
