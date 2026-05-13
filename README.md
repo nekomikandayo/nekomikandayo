@@ -48,11 +48,10 @@ https://nekomikandayo.github.io/portfolio/
 - 💻 **Source Code**  
   https://github.com/nekomikandayo/shared-todo-app
 
-#### ToDo、group一覧画面
-
-![Group一覧](images/groups.png)
-
-![ToDo一覧](images/ToDo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrmikan1417/shared-todo-app-1/main/images/groups.png" width="45%">
+  <img src="https://raw.githubusercontent.com/mrmikan1417/shared-todo-app-1/main/images/ToDo.png" width="45%">
+</p>
   
 ---
 
